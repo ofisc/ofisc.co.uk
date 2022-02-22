@@ -7,8 +7,8 @@ import { Layout } from '../components/layout';
 
 const Home = ({data}) => (
   <Layout pageTitle='Home'>
-      <h1>Welcome To The Oxford Figure Ice Skating Club – OFISC</h1>
-      <p>Oxford Figure Ice Skating Club is a self-funded organisation run by a voluntary committee, with a current membership of 30 skaters. The club is an affiliated member of NISA, the governing body for ice skating in the UK.</p>
+      <h1>Welcome To The Oxford Figure Ice Skating Club</h1>
+      <p>Oxford Figure Ice Skating Club is a self-funded organisation run by a voluntary committee, with a current membership of 30 skaters. The club is an affiliated member of British Ice Skating, the governing body for ice skating in the UK.</p>
       <p>We welcome new members up to the age of 18 from Skate UK Bronze Level.</p>
       <p>OIFSC offers skaters the opportunity to train and develop their skills in a supportive, friendly and fun environment and to take part in all club activities.  We have a small team of professional coaches who lead the sessions and provide a fun learning experience.</p>
       <p>
