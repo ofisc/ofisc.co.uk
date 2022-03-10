@@ -32,7 +32,11 @@ const Membership = () =>
 
     <h3>Trial</h3>
 
-    <p>You can start a trial for Figure Club on any Friday that is convenient for you. The trial is not a test, it is just a way to make sure they enjoy the club before committing. The 3 week trial costs £21, payable to the bank account below prior to the first session. Once they have completed their 3 week trial, should they enjoy the club, we would ask them to become a permanent member.</p>
+    <p>
+      You can start a trial for Figure Club on any Friday that is convenient for you.
+      The trial is not a test, it is just a way to make sure they enjoy the club before committing.
+      The 3 week trial costs £21, payable to the club bank account prior to the first session.
+      Once a skater has completed their 3 week trial, should they enjoy the club, we would ask them to become a permanent member.</p>
 
     <h3>Ice Time</h3>
 
