@@ -30,11 +30,41 @@ const Membership = () =>
         All Skaters taking classes at the Oxford Ice rink are welcome to join once they have achieved their Skate UK bronze level.
     </p>
 
+    <h3>Trial</h3>
+
+    <p>You can start a trial for Figure Club on any Friday that is convenient for you. The trial is not a test, it is just a way to make sure they enjoy the club before committing. The 3 week trial costs £21, payable to the bank account below prior to the first session. Once they have completed their 3 week trial, should they enjoy the club, we would ask them to become a permanent member.</p>
+
+    <h3>Ice Time</h3>
+
+    <p>
+      Figure club runs every Friday from 5.30pm to 6.30pm.
+      There will be a 15 minute warm up, followed by 45 minutes of training with professional coaches.
+      Socializing and practising routines is possible too.
+    </p>
+
+    <h3>Cost</h3>
+
+    <p>
+      Club membership costs £28 per month, this covers rink and coach expenses.
+      Club runs most Friday's throughout the year, except Easter and Christmas.
+      Siblings receive a 10% discount.
+    </p>
+
+    <h3>Own Skates</h3>
+
+    <p>In contrast to Skate School, skaters are expected to use their own skates at Figure Club.</p>
+
+    <h3>Membership Form</h3>
+
     <p>If you would like to join the club, please complete the membership form.</p>
 
     <Download name='Membership Form' link='/registration/OFISC Membership Form.pdf'/>
 
-    <p>All children aged 10 or below must be accompanied by a parent/guardian. Children aged 11 or above may go home on their own only if the parent/guardian has given written consent by completing the parent consent form.</p>
+    <p>All forms are to be mailed to {email}</p>
+
+    <h3>Parent Consent Form</h3>
+
+    <p>If your child is under the age of 10 years old a responsible adult will need to be inside the building for the entire session, at the end of the sessions a Figure Club member will ensure all children are returned to their parent before releasing them from the rink, if your child is able to leave the rink without supervision, please complete the Parent Consent Form to enable this to happen.</p>
 
     <Download name='Parent Consent Form' link='/registration/OFISC Parent Consent Form.pdf'/>
 
@@ -45,7 +75,6 @@ const Membership = () =>
 
     <Download name='Photography Consent Form' link='/registration/OFISC Photography Consent Form.pdf'/>
 
-    <p>All forms are to be mailed to {email}</p>
   </Layout>
 
 export default Membership;
