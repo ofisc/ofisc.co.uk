@@ -13,7 +13,7 @@ const committee = [
 ];
 
 const policies = [
-  {name: 'Anti-bullying Policy', link: '/policy/OFISC-Anti-bullying-policy.pdf'},
+  {name: 'Anti-bullying Policy', link: '/policy/OFISC Anti-bullying Policy.pdf'},
   {name: 'Code Of Conduct', link: '/policy/OFISC-Code-Of-Conduct.pdf'},
   {name: 'Parents Code Of Conduct', link: '/policy/OFISC-Parents-code-of-conduct.pdf'},
   {name: 'OFISC Constitution', link: '/policy/OFISCConstitution-December2015.pdf'},
