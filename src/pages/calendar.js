@@ -6,7 +6,7 @@ const url = 'https://teamup.com/kse93zyowmeuxudm8w?view=a&showLogo=0&showSearch=
 const Calendar = ()  => {
   return (
     <Layout pageTitle='Calendar' wide>
-      <h1>Calendar</h1>
+      <h1>Club Calendar</h1>
 
       <iframe src={url}
               className="w-100 ba b--light-gray"
