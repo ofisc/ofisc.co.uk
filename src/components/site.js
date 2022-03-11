@@ -1,12 +1,12 @@
 export const site = [
   {
+    name: 'Calendar',
+    link: '/calendar'
+  },
+  {
     name: 'Contact',
     link: '/contact'
   },
-  // {
-  //   name: 'Calendar',
-  //   link: '/calendar'
-  // },
   {
     name: 'Membership',
     link: '/membership'
@@ -15,5 +15,4 @@ export const site = [
     name: 'About',
     link: '/club'
   }
-
 ];
