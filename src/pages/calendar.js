@@ -1,43 +1,19 @@
 import React from 'react';
-
-import { graphql, Link } from 'gatsby';
-
 import { Layout } from '../components/layout';
 
-const Calendar =  ({ data: { allCalendar: { nodes } } })  => {
+const url = 'https://teamup.com/kse93zyowmeuxudm8w?view=a&showLogo=0&showSearch=1&showProfileAndInfo=0&showSidepanel=0&showTitle=0&showViewSelector=1&showMenu=1&showAgendaHeader=0&showAgendaDetails=0&showYearViewHeader=1';
+
+const Calendar = ()  => {
   return (
-    <Layout pageTitle='Calendar'>
-      <h1>Calendar</h1>
-      {
-        nodes.map(({date, title, path}) => {
-          const relativePath = path.replace(/^calendar\//,'');
-          return(
-            <div className="shadow-5 ba b--light-gray grow mb4 pa2">
-              <Link className="link near-black hover-mid-gray"
-                to={relativePath}>
-              <h2>{title}</h2>
-              <div>{date}</div>
-              </Link>
-            </div>
-          );
-        })
-      }
+    <Layout pageTitle='Calendar' wide>
+      <h1>Club Calendar</h1>
+
+      <iframe src={url}
+              className="w-100 ba b--light-gray"
+              style={{height: '72rem'}}
+              frameborder="0"></iframe>
     </Layout>
   );
 }
 
 export default Calendar;
-
-export const query = graphql`
-  query {
-    allCalendar {
-      nodes {
-        id
-        date
-        title
-        path
-      }
-    }
-  }
-`
-  ;

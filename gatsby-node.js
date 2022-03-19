@@ -61,12 +61,12 @@ exports.onCreateNode = async ({node, getNode, reporter, cache, loadNodeContent, 
   }
 }
 
-exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
-  return Promise.all([
-    calendarEntry(graphql, createPage),
-  ])
-}
+// exports.createPages = ({ graphql, actions }) => {
+//   const { createPage } = actions
+//   return Promise.all([
+//     calendarEntry(graphql, createPage),
+//   ])
+// }
 
 const calendarEntry = (graphql, createPage) => {
   return new Promise((resolve, reject) => {
