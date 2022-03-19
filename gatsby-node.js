@@ -38,13 +38,14 @@ exports.onCreateNode = async ({node, getNode, reporter, cache, loadNodeContent, 
     return;
   }
 
-  if ('calendar' === sourceInstanceName) {
+  if ('event' === sourceInstanceName) {
 
+    console.log('ev: ' + absolutePath);
     const event = yaml.load(fs.readFileSync(absolutePath, 'utf-8'));
     const { description, title, date } = event;
 
     const resourceNode = {
-      path: `calendar/${name}`,
+      path: `events/${name}`,
       id: createNodeId(`${node.id}`),
       title,
       description,
@@ -53,7 +54,7 @@ exports.onCreateNode = async ({node, getNode, reporter, cache, loadNodeContent, 
       parent: node.id,
       internal: {
         contentDigest,
-        type: 'calendar',
+        type: 'event',
       },
     };
 
@@ -61,18 +62,18 @@ exports.onCreateNode = async ({node, getNode, reporter, cache, loadNodeContent, 
   }
 }
 
-// exports.createPages = ({ graphql, actions }) => {
-//   const { createPage } = actions
-//   return Promise.all([
-//     calendarEntry(graphql, createPage),
-//   ])
-// }
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
+  return Promise.all([
+    eventEntry(graphql, createPage),
+  ])
+}
 
-const calendarEntry = (graphql, createPage) => {
+const eventEntry = (graphql, createPage) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        allCalendar {
+        allEvent {
           edges {
             node {
               id
@@ -87,11 +88,11 @@ const calendarEntry = (graphql, createPage) => {
     `
     ).then(result => {
 
-      result.data.allCalendar.edges.map(({ node }) => {
+      result.data.allEvent.edges.map(({ node }) => {
         const { date, title, description } = node;
         createPage({
           path: node.path,
-          component: path.resolve('./src/templates/calendarEntry.js'),
+          component: path.resolve('./src/templates/eventEntry.js'),
           context: {
             id: node.id,
             title,

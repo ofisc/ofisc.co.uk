@@ -4,6 +4,10 @@ export const site = [
     link: '/calendar'
   },
   {
+    name: 'Events',
+    link: '/events'
+  },
+  {
     name: 'Contact',
     link: '/contact'
   },
