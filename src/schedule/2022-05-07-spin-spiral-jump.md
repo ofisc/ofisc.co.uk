@@ -3,8 +3,14 @@ date: "2022-05-07"
 title: "Spin Spiral Jump"
 ---
 
-Music is random set by the rink.
+A Spin Spiral Jump event is taking place at 4pm on 07 May 2022 at the Oxford Ice Rink.
+
+Music is random set by the team.
 
 Entry is for anyone over Bronze who has lessons with an Oxford coach.
 
-Contact your coach for entry forms then the instructors help them enter and payment is made with entry form to Nikita I think.
+Contact your coach for entry forms.
+
+Entires close on 30 April 2022.
+
+Payment is made with entry form to your coach.
