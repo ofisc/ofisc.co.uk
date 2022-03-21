@@ -14,10 +14,10 @@ const Schedule =  ({ data: { allMarkdownRemark: { edges } } })  => {
             <Link className="link near-black hover-mid-gray"
               to={name}>
               <div className="pure-g">
-                <div className="pure-u-1-4">
+                <div className="pure-u-1-2 pure-u-sm-3-8 pure-u-md-1-4">
                   <h2>{date}</h2>
                 </div>
-                <div className="pure-u-3-4">
+                <div className="pure-u-1-2 pure-u-sm-5-8 pure-u-md-3-4">
                   <h2>{title}</h2>
                 </div>
               </div>
