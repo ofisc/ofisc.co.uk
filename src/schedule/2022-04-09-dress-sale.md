@@ -1,9 +1,9 @@
 ---
-date: "2022-04-09"
+date: "2022-04-02"
 title: "Dress Sale"
 ---
 
-The club will run a dress sale on Saturday and Sunday 9-10 April at 9-10 am at the Oxford Ice Rink.
+The club will run a dress sale on Saturday and Sunday 2-3 April at 9-10 am at the Oxford Ice Rink. We will also be running the sale at Figure Club on Friday 1 April from 6:15 pm.
 
 ### Selling Items
 
@@ -19,4 +19,5 @@ Please note that we do not intend to include skates in this dress sale. We are a
 
 * Dresses
 * Leggings
-* ....
+* Skating Jackets
+* Other clothing relevant to figure skating

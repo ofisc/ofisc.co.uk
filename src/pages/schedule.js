@@ -9,14 +9,20 @@ const Schedule =  ({ data: { allMarkdownRemark: { edges } } })  => {
     <Layout pageTitle='Event Schedule'>
       <h1>Upcoming Schedule</h1>
       {
-        edges.map(({ node: { id, frontmatter: { title, date }, parent: { name }}}) =>
-            <div className="shadow-5 ba b--light-gray grow mb4 pa2">
-                <Link className="link near-black hover-mid-gray"
-                    to={name}>
-                    <h2>{title}</h2>
-                    <h2>{date}</h2>
-                </Link>
-            </div>
+        edges.map(({ node: { id, frontmatter: { title, date }, parent: { name } } }) =>
+          <div className="shadow-5 ba b--light-gray grow pa2 pl3">
+            <Link className="link near-black hover-mid-gray"
+              to={name}>
+              <div className="pure-g">
+                <div className="pure-u-1-4">
+                  <h2>{date}</h2>
+                </div>
+                <div className="pure-u-3-4">
+                  <h2>{title}</h2>
+                </div>
+              </div>
+            </Link>
+          </div>
         )
       }
     </Layout>
@@ -33,7 +39,7 @@ export const pageQuery = graphql`
           id
           excerpt(pruneLength: 250)
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD/MM/YY")
             title
           }
           parent {
