@@ -9,6 +9,14 @@ The club will run a dress and clothing sale on Saturday and Sunday 2-3 April at 
 
 You are welcome to have pre-loved skating clothing and equipment sold by Figure Club. The club will take a 10% commission of each sale as a donation. Items to be sold must be clearly labelled with the name of the seller and the price you would like sell each item for.
 
+### Payments
+
+Paying for items on the day will only be possible by card. No cash payments can be accepted. We accept any credit or debit card that displays a Visa, V PAY, Mastercard, Maestro, American Express, Discover, Diners Club, or Union Pay logo as well as NFC payments via Google and Apple Pay.
+
+### Payouts
+
+Payouts for sold items will be initiated after all card payments have cleared and settled. Please advise us into which account you wish to receive proceeds from the sale. The club will deduct a 10% commission from each sale as well as a 1.75% transaction fee for card processing.
+
 ### Inquiries
 
 All inquiries please mail oxfordfisc@gmail.com
