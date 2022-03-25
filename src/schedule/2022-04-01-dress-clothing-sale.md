@@ -11,7 +11,7 @@ You are welcome to have pre-loved skating clothing and equipment sold by Figure 
 
 ### Payments
 
-Paying for items on the day will only be possible by card. No cash payments can be accepted.
+Paying for items on the day will only be possible by card. No cash payments can be accepted. We accept any credit or debit card that displays a Visa, V PAY, Mastercard, Maestro, American Express, Discover, Diners Club, or Union Pay logo as well as NFC payments via Google and Apple Pay.
 
 ### Payouts
 
