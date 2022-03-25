@@ -11,7 +11,7 @@ You are welcome to have pre-loved skating clothing and equipment sold by Figure 
 
 ### Payments
 
-Paying for items on the day will be be possible by card only. No cash payments can be taken.
+Paying for items on the day will only be possible by card. No cash payments can be accepted.
 
 ### Payouts
 
