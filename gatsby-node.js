@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
+const moment = require('moment');
 
 exports.onCreateWebpackConfig = ({
   stage,
@@ -103,4 +104,16 @@ const calendarEntry = (graphql, createPage) => {
       resolve()
     })
   });
+}
+
+exports.onCreatePage = ({ page, actions }) => {
+  const { createPage, deletePage } = actions
+  deletePage(page)
+  createPage({
+    ...page,
+    context: {
+      ...page.context,
+      publicationDate: moment().format('YYYY-MM-DD'),
+    },
+  })
 }
