@@ -5,8 +5,9 @@ title: "Improvisation Event (Draft Status)"
 
 Figure Club will conduct a improvisation event on Friday 27/05/2022 during the normal club ice time from 5:30-6:30pm.
 
-The improvisation is an internal event for OFISC members only. This is a fun event that allows each skater to put their skills into a routine. The music to skate to will be a surprise and no routines will be practiced beforehand. Because of this, nobody will have an advantage over anybody else. It will be a whole lot of fun!
+The improvisation is an internal event for OFISC members only. This is a fun event that allows each skater to put their skills into a routine. The music to skate to will be a surprise and no routines will be practiced beforehand. Because of this, nobody will have an advantage over anybody else.
 
+This is a fantastic opportunity to have the whole rink to yourself, and it will be a whole lot of fun!
 
 ## How It Works
 
