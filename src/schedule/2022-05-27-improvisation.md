@@ -1,30 +1,20 @@
 ---
 date: "2022-05-27"
-title: "Improvisation Event (Draft Status)"
+title: "Improvisation Event"
 ---
 
-Figure Club will conduct a improvisation event on Friday 27/05/2022 during the normal club ice time from 5:30-6:30pm.
+OFISC will be holding an improvisation event on Friday 27/05/2022 during normal club ice time (between 5:30 and 6:30pm). It is for OFISC members only.
 
-The improvisation is an internal event for OFISC members only. This is a fun event that allows each skater to put their skills into a routine. The music to skate to will be a surprise and no routines will be practiced beforehand. Because of this, nobody will have an advantage over anybody else.
-
-This is a fantastic opportunity to have the whole rink to yourself, and it will be a whole lot of fun!
+The event is a rare opportunity for OFISC skaters to use their skills and imagination to create a short routine. The music they will be skating to will be a surprise on the day. Because of this, nobody will be able to practice their routine beforehand and everyone will start from the same point. This is a fantastic opportunity for OFISC skaters to experience having the whole rink to themselves during their performance, get creative and have a lot of fun!
 
 ## How It Works
 
-* Depending on the numbers of participants, the coaches decide if skaters work on this solo or in teams of 2
-* The coaches will choose 4 separate tracks each lasting 1 minute 30 seconds (may be adjusted subject to final numbers)
-* There are 4 separate rooms each with one of the tracks to be played
-* There will be numbers 1 to 4 in a pot
-* Skaters pick out a number and that will determine which piece of music they get and which room on the day they would go into
-* Each group listens to their track on repeat for 10 minutes
-* During this 10 minutes, each skater will come up with a routine that they will skate to
-* (TBC) Skaters warm up for x minutes
-* Each skater skates their routine
-* A panel of three judges observe and mark each routine and results given after everyone has skated
-* Usually the skaters would stay in their room until they have skated. Obviously the idea being that they wouldn’t be able to copy each other
-* Once skated, any skater can watch the rest of the program
-
-
-## Judging
-
-There is a panel of three judges who will mark each routine. After everybody has skated a presentation ceremony will take place to announce the winner.
+*	Depending on the number of participants, the coaches will decide if skaters will work on their own or in pairs
+*	The coaches will choose 4 different pieces of music, each lasting 1 minute 30 seconds (may be adjusted subject to final numbers)
+*	There will be 4 separate rooms, each assigned to a different piece of music
+*	Each skater will pick out a piece of paper from a pot that will assign them to a room (and particular piece of music)
+*	Once in their rooms, the skaters will hear their piece of music played on repeat for 10 minutes, during which time they will plan their routine
+*	Skaters warm up for 3 minutes
+*	Each skater performs their routine to a panel of 3 judges that will assign marks
+*	Skaters will stay in their rooms until their turn to skate so that they can’t copy each other, but they can watch the rest of the performances after their turn
+*	Once everyone has skated, there will be a presentation ceremony to announce the winner
