@@ -18,12 +18,14 @@ const EventList = ({ edges, siteUrl }) =>
   edges.map(({ 
     node: { id, frontmatter: { title, date, announcement }, excerpt, parent: { name } },
     }) =>
-    <div className="shadow-5 ba b--light-gray grow pa2 pl3">
+    <div className="shadow-5 ba b--light-gray grow pa2 pl3 pr3">
       <Link className="link near-black hover-mid-gray"
         to={name}>
         <h2>{title}</h2>
-        <h3>{date}</h3>
-        <Social announcement={announcement} shareUrl={scheduleUrl(siteUrl, name)}/>
+        <div className="flex items-start justify-between">
+          <div className="f3 fw6">{date}</div>
+          <Social announcement={announcement} shareUrl={scheduleUrl(siteUrl, name)}/>
+        </div>
         <div className="mt3">
           <p>{excerpt}</p>
         </div>

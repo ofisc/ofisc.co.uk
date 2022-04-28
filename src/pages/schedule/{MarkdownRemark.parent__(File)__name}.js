@@ -16,9 +16,9 @@ const Template = ({data}) => {
     <Layout pageTitle={title}>
       <div className="">
         <h1>{title}</h1>
-        <h2>{date}</h2>
+        <div className="f3 fw6">{date}</div>
 
-        <div className="pb4">
+        <div className="pt4 pb4">
           <Social shareUrl={scheduleUrl(siteUrl, path)} announcement={announcement}/>
         </div>
 
