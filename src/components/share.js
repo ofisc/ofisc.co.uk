@@ -1,0 +1,1 @@
+export const scheduleUrl = (siteUrl, path) => siteUrl + '/schedule/' + path;

@@ -3,6 +3,7 @@ import { graphql } from 'gatsby';
 
 import { Layout } from '../../components/layout';
 import { Social } from '../../components/social';
+import { scheduleUrl } from '../../components/share';
 
 const Template = ({data}) => {
 
@@ -11,16 +12,14 @@ const Template = ({data}) => {
     site: { siteMetadata: { siteUrl } }
   } = data;
 
-  const shareUrl = siteUrl + '/schedule/' + path;
-
   return (
     <Layout pageTitle={title}>
       <div className="">
         <h1>{title}</h1>
-        <h2>{date}</h2>
+        <div className="f3 fw6">{date}</div>
 
-        <div className="pb4">
-          <Social shareUrl={shareUrl} announcement={announcement}/>
+        <div className="pt4 pb4">
+          <Social shareUrl={scheduleUrl(siteUrl, path)} announcement={announcement}/>
         </div>
 
         <div className=""
@@ -45,7 +44,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
-        date(formatString: "DD MMMM YYYY")
+        date(formatString: "MMM D, YYYY")
         title
         announcement
       }

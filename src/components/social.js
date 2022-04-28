@@ -2,9 +2,11 @@ import React from 'react';
 
 import {
   FacebookShareButton,
+  FacebookIcon,
   TwitterShareButton,
   TwitterIcon,
-  FacebookIcon,
+  WhatsappShareButton,
+  WhatsappIcon
 } from 'react-share';
 
 export const Social = ({ shareUrl, announcement }) => (
@@ -19,7 +21,7 @@ export const Social = ({ shareUrl, announcement }) => (
         round />
     </TwitterShareButton>
 
-    <div className="pl2">
+    <div className="pl3">
       <FacebookShareButton
         url={shareUrl}
         quote={announcement}
@@ -28,6 +30,16 @@ export const Social = ({ shareUrl, announcement }) => (
           size={32}
           round />
       </FacebookShareButton>
+    </div>
+
+    <div className="pl3">
+      <WhatsappShareButton
+        url={shareUrl}
+        title={announcement}>
+        <WhatsappIcon
+          size={32}
+          round />
+      </WhatsappShareButton>
     </div>
 
   </div>
