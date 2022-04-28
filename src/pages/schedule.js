@@ -3,27 +3,29 @@ import React from 'react';
 import { graphql, Link } from 'gatsby';
 
 import { Layout } from '../components/layout';
+import { Social } from '../components/social';
+import { scheduleUrl } from '../components/share';
 
-const Schedule = ({ data: { upcoming, past } }) =>
+const Schedule = ({ data: { upcoming, past, site: { siteMetadata: { siteUrl }} } }) =>
   <Layout pageTitle='Event Schedule'>
     <h1>Upcoming Schedule</h1>
-    <EventList {...upcoming} />
+    <EventList {...upcoming} siteUrl={siteUrl}/>
     <h1 className="mt5">Past Events</h1>
-    <EventList {...past} />
+    <EventList {...past} siteUrl={siteUrl} />
   </Layout>
 
-const EventList = ({ edges }) =>
-  edges.map(({ node: { id, frontmatter: { title, date }, parent: { name } } }) =>
+const EventList = ({ edges, siteUrl }) =>
+  edges.map(({ 
+    node: { id, frontmatter: { title, date, announcement }, excerpt, parent: { name } },
+    }) =>
     <div className="shadow-5 ba b--light-gray grow pa2 pl3">
       <Link className="link near-black hover-mid-gray"
         to={name}>
-        <div className="pure-g">
-          <div className="pure-u-1-2 pure-u-sm-3-8 pure-u-md-1-4">
-            <h2>{date}</h2>
-          </div>
-          <div className="pure-u-1-2 pure-u-sm-5-8 pure-u-md-3-4">
-            <h2>{title}</h2>
-          </div>
+        <h2>{title}</h2>
+        <h3>{date}</h3>
+        <Social announcement={announcement} shareUrl={scheduleUrl(siteUrl, name)}/>
+        <div className="mt3">
+          <p>{excerpt}</p>
         </div>
       </Link>
     </div>
@@ -36,10 +38,11 @@ export const pageQuery = graphql`
     edges {
       node {
         id
-        excerpt(pruneLength: 250)
+        excerpt(pruneLength: 160)
         frontmatter {
-          date(formatString: "DD/MM/YY")
+          date(formatString: "MMM D, YYYY")
           title
+          announcement
         }
         parent {
           ... on File {
@@ -50,6 +53,11 @@ export const pageQuery = graphql`
     }
   }
   query($publicationDate: Date) {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
     upcoming: allMarkdownRemark(
         sort: { order: ASC, fields: [frontmatter___date] },
         filter: {frontmatter: {date: {gte: $publicationDate}}}
