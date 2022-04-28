@@ -1,6 +1,7 @@
 ---
 date: "2022-04-01"
 title: "Dress And Clothing Sale"
+announcement: "OFISC will run a dress and clothing sale on Saturday and Sunday 2-3 April at 9-10 am at the Oxford Ice Rink"
 ---
 
 The club will run a dress and clothing sale on Saturday and Sunday 2-3 April at 9-10 am at the Oxford Ice Rink. We will also be running the sale at Figure Club on Friday 1 April from 6:15 pm.

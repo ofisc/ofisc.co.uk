@@ -1,6 +1,7 @@
 ---
 date: "2022-05-27"
 title: "Improvisation Event"
+announcement: "OFISC will be holding an improvisation event on Friday 27/05/2022 during normal club ice time"
 ---
 
 OFISC will be holding an improvisation event on Friday 27/05/2022 during normal club ice time (between 5:30 and 6:30pm). It is for OFISC members only.
