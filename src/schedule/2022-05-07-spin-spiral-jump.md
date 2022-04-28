@@ -1,6 +1,7 @@
 ---
 date: "2022-05-07"
 title: "Spin Spiral Jump Competition"
+announcement: "A Spin Spiral Jump competition is taking place at 4pm on 07 May 2022 at the Oxford Ice Rink"
 ---
 
 A Spin Spiral Jump competition is taking place at 4pm on 07 May 2022 at the Oxford Ice Rink.

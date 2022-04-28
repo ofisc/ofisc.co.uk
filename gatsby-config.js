@@ -1,4 +1,8 @@
 module.exports = {
+  siteMetadata: {
+    title: 'OFISC',
+    siteUrl: 'https://ofisc.co.uk',
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
