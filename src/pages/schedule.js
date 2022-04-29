@@ -9,19 +9,22 @@ import { scheduleUrl } from '../components/share';
 const Schedule = ({ data: { upcoming, past, site: { siteMetadata: { siteUrl }} } }) =>
   <Layout pageTitle='Event Schedule'>
     <h1>Upcoming Schedule</h1>
-    <EventList {...upcoming} siteUrl={siteUrl}/>
+    <div className="mt5">
+      <EventList {...upcoming} siteUrl={siteUrl}/>
+    </div>
     <h1 className="mt5">Past Events</h1>
-    <EventList {...past} siteUrl={siteUrl} />
+    <div className="mt5">
+      <EventList {...past} siteUrl={siteUrl} />
+    </div>
   </Layout>
 
 const EventList = ({ edges, siteUrl }) =>
   edges.map(({ 
     node: { id, frontmatter: { title, date, announcement }, excerpt, parent: { name } },
     }) =>
-    <div className="shadow-5 ba b--light-gray grow pa2 pl3 pr3">
-      <Link className="link near-black hover-mid-gray"
-        to={name}>
-        <h2>{title}</h2>
+    <div className="shadow-5 ba b--light-gray grow pl3 pr3 mb4 bg-white-30">
+      <Link className="link near-black hover-mid-gray" to={name}>
+        <div className="f3 fw7 lh-solid pt4 pb3">{title}</div>
         <div className="flex items-start justify-between">
           <div className="f3 fw6">{date}</div>
           <Social announcement={announcement} shareUrl={scheduleUrl(siteUrl, name)}/>
