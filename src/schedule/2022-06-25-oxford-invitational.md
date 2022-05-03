@@ -3,7 +3,7 @@ date: "2022-06-25"
 title: "Oxford Invitational Club Free Event"
 ---
 
-An inter-club invitational event (BIS beginners through to level 3) will take place at the Oxford Rink on 25th June from 4:30 pm until 8:30 pm.
+An inter-club invitational event (BIS beginners through to level 3) will take place at the Oxford Rink on 25th June from 4:30 pm until 8:45 pm.
 
 Judges and officials have been confirmed.
 
