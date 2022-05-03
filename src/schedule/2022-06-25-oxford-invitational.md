@@ -1,6 +1,7 @@
 ---
 date: "2022-06-25"
 title: "Oxford Invitational Club Free Event"
+announcement: "Inter-club invitational event to take place on 25/06/2002 at Oxford Ice Rink"
 ---
 
 An inter-club invitational event (BIS beginners through to level 3) will take place at the Oxford Rink on 25th June from 4:30 pm until 8:45 pm.
