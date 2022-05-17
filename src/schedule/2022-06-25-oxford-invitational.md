@@ -18,6 +18,10 @@ Please use the [online entry form][entry] to enter the competition.
 
 The entry price is £25 per skater, which will cover ice time, officials’ expenses and other associated costs. To secure your place, please pay via PayPal using oxf.entries@gmail.com.
 
+## Closing Date
+
+Entries close on 10/06/2022 at 5 pm.
+
 ## Music Uploads
 
 Music is to be emailed in MP3/MP4 format to oxf.entries@gmail.com using the naming scheme outlined in the [rules and regulations][rules].
