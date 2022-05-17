@@ -4,7 +4,7 @@ title: "Oxford Invitational Club Free Event"
 announcement: "Inter-club invitational event to take place on 25/06/2002 at Oxford Ice Rink"
 ---
 
-An inter-club invitational event (BIS beginners through to level 3) will take place at Oxford Ice Rink on 25 June from 4:30 pm to 8:45 pm.
+An inter-club invitational event (BIS beginners through to basic novice) will take place at Oxford Ice Rink on 25 June from 4:30 pm to 8:45 pm.
 
 Judges and officials have been confirmed.
 
