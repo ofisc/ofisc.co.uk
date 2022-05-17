@@ -22,6 +22,10 @@ The entry price is £25 per skater, which will cover ice time, officials’ expe
 
 Entries close on 10/06/2022 at 5 pm.
 
+## Element Codes
+
+If you want to secure your place, but don’t yet have your element codes, please enter N/A in the codes section and make your payment. You can update the elements up until the closing date.
+
 ## Music Uploads
 
 Music is to be emailed in MP3/MP4 format to oxf.entries@gmail.com using the naming scheme outlined in the [rules and regulations][rules].
