@@ -1,10 +1,15 @@
 import React from 'react';
 
+import { Link } from 'gatsby';
+
 import { Layout } from '../components/layout';
 
 import { FaRegFilePdf } from "@react-icons/all-files/fa/FaRegFilePdf";
 
 const email = 'oxfordfisc@gmail.com';
+const mandate = 'https://pay.gocardless.com/AL0005G1D8K022';
+const gocardless = 'https://gocardless.com/';
+const dd_guarantee = 'https://gocardless.com/guides/posts/dd-guarantee-in-plain-english/';
 
 const forms = [
   {name: 'Membership Form', link: '/registration/OFISC Membership Form.pdf'},
@@ -61,7 +66,21 @@ const Membership = () =>
 
     <p>
       Membership fees are due on a monthly rolling basis.
-      When you join, we ask for you to set up a monthly standing order made payable to the club account.
+      When you join, we ask for you to set up a direct debit mandate that will be used to collect the membership fee each month.
+    </p>
+
+    <p>
+      The direct debit is managed on behalf of the club by <Link className="link dim dark-blue" to={gocardless}>GoCardless</Link>.
+      You are protected by the <Link className="link dim dark-blue" to={dd_guarantee}>Direct Debit Guarantee</Link>.
+      Payment details are collected securely by GoCardless and they are not shared with the club.
+    </p>
+
+    <p>
+      Once you have setup up the direct debit mandate, the club will contact you to arrange the most suitable day of the month for collection. 
+    </p>
+
+    <p>
+      <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href={mandate}>Setup Direct Debit</a>
     </p>
 
     <h3>Own Skates</h3>
@@ -95,6 +114,9 @@ const Membership = () =>
 
     <p>
       Should you decide to leave the club, we ask you to advise us one month in advance.
+      Based on when you give notice, the club will advise you of your effetive membership end date.
+      Depending on the effective end membership end date, the club will pro-rate any membership fees that become due.
+      This pro rata monthly fee will be collected via direct debit as the final amount to be paid to the club.
     </p>
 
 
