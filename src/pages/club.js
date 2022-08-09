@@ -5,7 +5,7 @@ import { Layout } from '../components/layout';
 import { FaRegFilePdf } from "@react-icons/all-files/fa/FaRegFilePdf";
 
 const committee = [
-  {role: 'Treasurer', name: 'Nicole Tame'},
+  {role: 'Treasurer', name: 'TBC'},
   {role: 'Secretary', name: 'Debbie Aston'},
   {role: 'Safeguarding Officer', name: 'Claire Beveridge'},
   {role: 'Competition Secretary', name: 'Theresa Harper'},
