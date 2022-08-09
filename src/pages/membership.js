@@ -72,7 +72,7 @@ const Membership = () =>
     <p>
       The direct debit is managed on behalf of the club by <Link className="link dim dark-blue" to={gocardless}>GoCardless</Link>.
       You are protected by the <Link className="link dim dark-blue" to={dd_guarantee}>Direct Debit Guarantee</Link>.
-      Payment details are collected securely by GoCardless and they are not shared with the club.
+      Payment and personal details are collected securely by GoCardless and they are not shared with the club.
     </p>
 
     <p>
