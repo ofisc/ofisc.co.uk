@@ -39,7 +39,7 @@ const Membership = () =>
 
     <p>
       Figure club runs every Friday from 5.30pm to 6.30pm.
-      There will be a 15 minute warm up, followed by 45 minutes of training with professional coaches.
+      There will be a 15 minute warm up, followed by 30 minutes of training with professional coaches.
       Socializing and practising routines is possible too.
     </p>
 
