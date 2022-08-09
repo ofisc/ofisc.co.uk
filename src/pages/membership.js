@@ -62,7 +62,7 @@ const Membership = () =>
       Siblings receive a 10% discount.
     </p>
 
-    <h3>Payment</h3>
+    <h3 id="payment">Payment</h3>
 
     <p>
       Membership fees are due on a monthly rolling basis.
