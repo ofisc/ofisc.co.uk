@@ -48,10 +48,11 @@ const Membership = () =>
     <p>
       You can start a trial for Figure Club on any Friday that is convenient for you.
       The trial is not a test, it is just a way to make sure they enjoy the club before committing.
-      The 3 week trial costs £21, payable to the club bank account prior to the first session.
+      The 3 week trial is free, but we do require you fill out the membership form so that we have your details on file prior to getting on the ice.
     </p>
     <p>
       Once a skater has completed their 3 week trial, should they enjoy the club, we would ask them to become a permanent member.
+      Should you decide to join, we request you set up the direct debit to cover membership fees.
     </p>
 
     <h3>Cost</h3>
