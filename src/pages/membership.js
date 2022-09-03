@@ -6,7 +6,7 @@ import { Layout } from '../components/layout';
 
 import { FaRegFilePdf } from "@react-icons/all-files/fa/FaRegFilePdf";
 
-const email = 'oxfordfisc@gmail.com';
+const email = 'club@ofisc.co.uk';
 const mandate = 'https://pay.gocardless.com/AL0005G1D8K022';
 const gocardless = 'https://gocardless.com/';
 const dd_guarantee = 'https://gocardless.com/guides/posts/dd-guarantee-in-plain-english/';
