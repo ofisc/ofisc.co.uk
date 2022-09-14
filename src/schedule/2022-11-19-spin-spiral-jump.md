@@ -6,7 +6,7 @@ announcement: "A Spin Spiral Jump competition is taking place at 4:30pm on Satur
 
 Figure Club is holding a Spin Spiral Jump competition from 4:30pm until 6pm on Saturday 19 November at the Oxford Ice Rink.
 
-This is a fun and easy competition that provides a gentle introduction to figure skating as a performance sport.
+This is a fun and easy competition that provides a gentle introduction to figure skating as a performance sport. It is open to all skaters.
 
 Appropriate music for each skater will be set by the team on the day.
 
