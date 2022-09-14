@@ -44,7 +44,7 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
-        date(formatString: "MMM D, YYYY")
+        date(formatString: "dddd D MMMM YYYY")
         title
         announcement
       }

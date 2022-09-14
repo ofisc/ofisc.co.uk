@@ -45,7 +45,7 @@ export const pageQuery = graphql`
         id
         excerpt(pruneLength: 160)
         frontmatter {
-          date(formatString: "MMM D, YYYY")
+          date(formatString: "dddd D MMMM YYYY")
           title
           announcement
         }
@@ -71,7 +71,7 @@ export const pageQuery = graphql`
     }
     ,
     past: allMarkdownRemark(
-        sort: { order: ASC, fields: [frontmatter___date] },
+        sort: { order: DESC, fields: [frontmatter___date] },
         filter: {frontmatter: {date: {lt: $publicationDate}}}
     ) {
       ...ScheduledEvent
