@@ -24,7 +24,7 @@ There are three categories for the competition:
 
 ## Entry Fee
 
-Entering the competition costs £15.
+Entry fee for the competition is £15.
 
 The fee for Figure Club skaters is collected by direct debit, so no action is required by club members.
 
