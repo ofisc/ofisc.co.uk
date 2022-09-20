@@ -14,7 +14,7 @@ It will be judged by a panel, so that skaters get the feeling of how a competiti
 
 There is no minimum level for the Spin Spiral Jump competition but you will need your own skates and you will need a private coach to help you put a routine together. This will not require a huge amount of private coaching, it is simply to provide the skater with some orientation before they take the ice on the day.
 
-The entry fee is £15. The fee for Figure Club skaters is collected by direct debit, so no action is required by club members. Non-club members can pay the fee directly to the club using this one-time [payment link]().
+The entry fee is £15. The fee for Figure Club skaters is collected by direct debit, so no action is required by club members. Non-club members can pay the fee directly to the club using this one-time [payment link][payment].
 
 Closing date for entries is Sunday 6 November.
 
