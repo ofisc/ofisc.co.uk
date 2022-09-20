@@ -25,8 +25,8 @@ const EventList = ({ edges, siteUrl }) =>
     <div className="shadow-5 ba b--light-gray grow pl3 pr3 mb4 bg-white-30">
       <Link className="link near-black hover-mid-gray" to={name}>
         <div className="f3 fw7 lh-solid pt4 pb3">{title}</div>
-        <div className="flex items-start justify-between">
-          <div className="f3 fw6">{date}</div>
+        <div className="f4 fw6 pb3">{date}</div>
+        <div className="">
           <Social announcement={announcement} shareUrl={scheduleUrl(siteUrl, name)}/>
         </div>
         <div className="mt3">

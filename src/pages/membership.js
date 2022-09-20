@@ -88,6 +88,14 @@ const Membership = () =>
 
     <p>In contrast to Skate School, skaters are expected to use their own skates at Figure Club.</p>
 
+    <h3>Club Jackets</h3>
+
+    <p>
+      All members are encouraged to wear a personalized club jackets, which are available to purchase for £35.
+      Please send an email specifying the desired size (the jackets use an age-based sizing scheme).
+      You should also state which name you prefer to have on the front of the jacket.
+    </p>
+
     <h3>Membership Form</h3>
 
     <p>If you would like to join the club, please complete the membership form.</p>
