@@ -24,7 +24,13 @@ There are three categories for the competition:
 
 ## Entry Fee
 
-The entry fee is £15. The fee for Figure Club skaters is collected by direct debit, so no action is required by club members. Non-club members can pay the fee directly to the club using this one-time [payment link][payment].
+Entering the competition costs £15.
+
+The fee for Figure Club skaters is collected by direct debit, so no action is required by club members.
+
+Non-club members can pay the fee directly to the club using the payment button below.
+
+<a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://pay.gocardless.com/BRT0001G0KT3A34">Pay Entry Fee</a>
 
 ## Entry Forms
 
