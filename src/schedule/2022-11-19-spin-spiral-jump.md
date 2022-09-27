@@ -33,7 +33,19 @@ Non-club members can pay the fee directly to the club using the payment button b
 
 ## Entry Forms
 
-To enter the competition, please complete the [entry form][entry] and email it back to club@ofisc.co.uk
+To enter the competition, please complete the [entry form][entry] and email it to club@ofisc.co.uk
+
+## Music
+
+SSJ entrants do not require to supply their own music - this will be provided for you.
+
+For Beginner Programme entrants please email your music to club@ofisc.co.uk
+
+Please ensure your music is cut to the correct length and is encoded in MP3/MP4 format. Use the following level entered/skater naming scheme, for example:
+
+    Beginners_Girls_Kaori_Sakamoto.mp3
+
+On the day of the event, please bring a CD copy of your music playable on a standard CD player. This ensures that your music is playable in the event of a technical failure.
 
 ## Closing Date
 
