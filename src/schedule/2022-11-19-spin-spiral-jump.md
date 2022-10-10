@@ -16,7 +16,7 @@ There is no minimum level for the Spin Spiral Jump competition but you will need
 
 ## Competition Categories
 
-There are three categories for the competition:
+There are two categories for the competition:
 
 * Spin Spiral Jump - aimed at first time competitors who have not practiced their own routine. We will supply music for you to skate to.
 * Beginner - aimed at skaters who have passed Skate UK Gold but have not completed Beginner level and have practised their own routine. You will need to bring a CD with your music to the competition.
