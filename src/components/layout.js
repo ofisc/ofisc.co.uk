@@ -17,7 +17,9 @@ import typography from '../utils/typography';
 
 import DesktopMenu from './desktop';
 import MobileMenu from './mobile';
-import { site } from './site';
+import { vertical } from './site';
+
+
 
 const blue = '#4097DE';
 
@@ -71,7 +73,7 @@ export const Layout = ({ pageTitle, children, wide }) => {
             <div className="mt4">
 
               {
-                site.map(({ name, link }) =>
+                vertical.map(({ name, link }) =>
                   <div className="">
                     <Link className="link near-white dib grow hover-mid-gray" to={link}>
                       <div className="f4">{name}</div>

@@ -1,8 +1,12 @@
 import React from 'react';
 
+import { Link } from 'gatsby';
+
 import { Layout } from '../components/layout';
 
 import { FaRegFilePdf } from "@react-icons/all-files/fa/FaRegFilePdf";
+
+import { safeguarding } from '../components/site';
 
 const committee = [
   {role: 'Treasurer', name: 'TBC'},
@@ -23,6 +27,13 @@ const Club = () =>
   <Layout pageTitle='Club'>
     <h1>About Figure Club</h1>
     <div>Club ice is every Friday from 5:30 - 6:30 pm at the Oxford Ice Rink.</div>
+
+    <div>
+      <h2>Safeguarding</h2>
+      <div>All information about safeguarding policies and procedures is available on our</div>
+      <Link className="dim" to={safeguarding.link}>safeguarding page</Link>
+    </div>
+
     <div>
       <h2>Club Committee</h2>
       <div>

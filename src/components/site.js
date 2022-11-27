@@ -20,3 +20,14 @@ export const site = [
     link: '/club'
   }
 ];
+
+export const safeguarding =
+  {
+    name: 'Safeguarding',
+    link: '/safeguarding'
+  };
+
+export const vertical = [
+  safeguarding,
+  ...site
+];
