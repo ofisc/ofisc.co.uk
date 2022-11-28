@@ -6,7 +6,7 @@ announcement: "Oxford ice skating clubs are performing a Christmas Extravaganza 
 
 The Oxford Ice Rink is staging a Christmas Extravaganza featuring performances from 
 
-* [Oxford School Of Skating Academy][oss]
+* [Oxford Skate Academy][oss]
 * [Oxford Ice Dance Club][oxist]
 * [Oxford Figure Ice Skating Club][ofisc]
 * British Championship Competitors based in Oxford:
