@@ -9,7 +9,7 @@ import { FaRegFilePdf } from "@react-icons/all-files/fa/FaRegFilePdf";
 import { safeguarding } from '../components/site';
 
 const committee = [
-  {role: 'Treasurer', name: 'TBC'},
+  {role: 'Treasurer', name: 'Clare Bingham'},
   {role: 'Secretary', name: 'Debbie Aston'},
   {role: 'Safeguarding Officer', name: 'Claire Beveridge'},
   {role: 'Competition Secretary', name: 'Theresa Harper'},

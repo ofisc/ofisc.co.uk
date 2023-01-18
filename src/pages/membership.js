@@ -58,7 +58,7 @@ const Membership = () =>
     <h3>Cost</h3>
 
     <p>
-      Membership costs £28 per month, this covers rink and coach expenses.
+      Membership from March 2023 costs £38 per month, this covers rink and coach expenses.
       The club runs most Friday's throughout the year, except Easter and Christmas.
       Siblings receive a 10% discount.
     </p>
