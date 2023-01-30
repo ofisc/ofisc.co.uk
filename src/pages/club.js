@@ -10,7 +10,7 @@ import { safeguarding } from '../components/site';
 
 const committee = [
   {role: 'Treasurer', name: 'Clare Bingham'},
-  {role: 'Secretary', name: 'Debbie Aston'},
+  {role: 'Secretary', name: 'TBD'},
   {role: 'Safeguarding Officer', name: 'Claire Beveridge'},
   {role: 'Competition Secretary', name: 'Theresa Harper'},
   {role: 'Chair', name: 'Ben Hood'},
