@@ -4,7 +4,7 @@ title: "Oxford Open Competition"
 announcement: "The Oxford Open will take place Monday 19th-Thursday 22nd June the Oxford Ice Rink"
 ---
 
-The Oxford Open will take place Monday 19th-Thursday 22nd June at the Oxford Ice Rink.
+The Oxford Open will take place Monday 19 June until Thursday 22 June 2023 at the Oxford Ice Rink.
 
 Entries open Wednesday 3 May at 7pm and close Tuesday 9 May at 5pm.
 
