@@ -21,20 +21,20 @@ There are two categories for the competition:
 
 The event will be judged by a panel, so that skaters get the feeling of how a competition runs. There will also be a prize ceremony at the end, which the jduges feed into. But it's all very friendly, so don't be put off by skating in front of judges.
 
-### Spin Spiral Jump Category
+* Spin Spiral Jump Category
 
-There is no minimum level for the Spin Spiral Jump competition but you will need your own skates and you will need a private coach to help you put a routine together. This will not require a huge amount of private coaching, it is simply to provide the skater with some orientation before they take the ice on the day.
+    There is no minimum level for the Spin Spiral Jump competition but you will need your own skates and you will need a private coach to help you put a routine together. This will not require a huge amount of private coaching, it is simply to provide the skater with some orientation before they take the ice on the day.
 
-### Programme Category
+* Programme Category
 
-The programme category will be judged professionally which means you can use your score as a feedback leading up to official competitions.
+    The programme category will be judged professionally which means you can use your score as a feedback leading up to official competitions. Please note that you won't be able to claim this score, but it will provide an indication of a potential official competition score.
 
 ## Entry Fee
 
 The entry fee depends on which category you enter: 
 
-* The Spin, Spiral Jump category the entry is £15
-* The programme category is £20
+* Spin Spiral Jump category: £15
+* Programme category: £20
 
 The fee for Figure Club skaters is collected by direct debit, so no action is required by club members.
 
