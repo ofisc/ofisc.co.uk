@@ -64,7 +64,7 @@ On the day of the event, please bring a CD copy of your music playable on a stan
 
 ## Closing Date
 
-Closing date for entries is Friday 9 June.
+Closing date for entries is Sunday 24 September.
 
 ## Eligibility
 
