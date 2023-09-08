@@ -68,7 +68,7 @@ Closing date for entries is Sunday 24 September.
 
 ## Eligibility
 
-The competition is open to skaters who skate at the Oxford Ice Rink. Non-Oxford skaters are advised they can enter the [Oxford Open][open] competition in the following week.
+The competition is open to any skater on a first come, first serve basis.
 
 ## Getting In Contact
 
