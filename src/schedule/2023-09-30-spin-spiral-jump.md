@@ -16,6 +16,7 @@ There are two categories for the competition:
 
 * Spin Spiral Jump - aimed at first time competitors who have not practiced their own routine. We will supply music for you to skate to.
 * Beginner - aimed at skaters who have passed Skate UK Gold but have not completed Beginner level and have practised their own routine. You will need to bring a CD with your music to the competition.
+* Competition - aimed at skaters who have already competed in an open competition
 
 ## Judging
 
@@ -25,9 +26,11 @@ The event will be judged by a panel, so that skaters get the feeling of how a co
 
     There is no minimum level for the Spin Spiral Jump competition but you will need your own skates and you will need a private coach to help you put a routine together. This will not require a huge amount of private coaching, it is simply to provide the skater with some orientation before they take the ice on the day.
 
-* Programme Category
+* Programme and Competition Categories
 
     The programme category will be judged professionally which means you can use your score as a feedback leading up to official competitions. Please note that you won't be able to claim this score, but it will provide an indication of a potential official competition score.
+
+There is a professional judge and two senior skaters for all categories.
 
 ## Entry Fee
 
