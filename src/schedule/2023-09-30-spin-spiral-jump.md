@@ -36,9 +36,9 @@ The entry fee depends on which category you enter:
 * Spin Spiral Jump category: £15
 * Programme category: £20
 
-The fee for Figure Club skaters is collected by direct debit, so no action is required by club members.
+The fee for Figure Club skaters is collected by direct debit, so no action is required by OFISC members.
 
-Non-club members can pay the fee directly to the club by bank transfer:
+Non-OFISC members can pay the fee directly to the club by bank transfer:
 
 * Account name: Oxford Figure Ice Skating Club
 * Sort code: 30-96-26
