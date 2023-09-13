@@ -12,10 +12,10 @@ Appropriate music for each skater in the Spin Spiral Jump will be set by the tea
 
 ## Competition Categories
 
-There are two categories for the competition:
+There are three categories for the competition:
 
 * Spin Spiral Jump - aimed at first time competitors who have not practiced their own routine. We will supply music for you to skate to.
-* Beginner - aimed at skaters who have passed Skate UK Gold but have not completed Beginner level and have practised their own routine. You will need to bring a CD with your music to the competition.
+* Programme - aimed at skaters who have passed Skate UK Gold and have begun to practice their own routine in preparation for an open competition. You will need to supply your own music for the competition.
 * Competition - aimed at skaters who have already competed in an open competition
 
 ## Judging
@@ -57,11 +57,11 @@ To enter the competition, please complete the [entry form][entry] and email it t
 
 SSJ entrants do not require to supply their own music - this will be provided for you.
 
-For Beginner Programme entrants please email your music to club@ofisc.co.uk
+For Programme/Competition entrants please either email your music to club@ofisc.co.uk or ask your coach to forward the music to the club. 
 
 Please ensure your music is cut to the correct length and is encoded in MP3/MP4 format. Use the following level entered/skater naming scheme, for example:
 
-    Beginner_Girls_Kaori_Sakamoto.mp3
+    Programme_Kaori_Sakamoto.mp3
 
 On the day of the event, please bring a CD copy of your music playable on a standard CD player. This ensures that your music is playable in the event of a technical failure.
 
