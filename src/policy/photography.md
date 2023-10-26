@@ -1,4 +1,7 @@
-# OFISC Photography and Video Policy
+—
+date: “2023-12-01”
+title: “OFISC Photography and Video Policy”
+—
 
 ## Draft Status
  
