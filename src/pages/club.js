@@ -63,6 +63,9 @@ const Club = () =>
           )
         }
       </div>
+      <div>
+        <Link to={'/policy/photo'}>Photo</Link>
+      </div>
     </div>
 
   </Layout>
