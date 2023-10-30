@@ -41,7 +41,12 @@ export const pageQuery = graphql`
       }
     }
 
-    markdownRemark(id: { eq: $id }) {
+    markdownRemark(
+      id: { eq: $id },
+      fields: {
+        sourceInstanceName: {eq: "schedule" }
+      }
+    ) {
       html
       frontmatter {
         date(formatString: "dddd D MMMM YYYY")

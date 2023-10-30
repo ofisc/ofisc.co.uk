@@ -7,7 +7,7 @@ import { scheduleUrl } from '../../components/share';
 const Template = ({data}) => {
 
   const { 
-    markdownRemark: { frontmatter: { title, date }, html, parent: { name: path } },
+    markdownRemark: { frontmatter: { title, version }, html, parent: { name: path } },
     site: { siteMetadata: { siteUrl } }
   } = data;
 
@@ -15,7 +15,7 @@ const Template = ({data}) => {
     <Layout pageTitle={title}>
       <div className="">
         <h1>{title}</h1>
-        <div className="f3 fw6">{date}</div>
+        <div className="f5 pb3">Version {version}</div>
 
         <div className=""
           dangerouslySetInnerHTML={{ __html: html }}
@@ -36,11 +36,16 @@ export const pageQuery = graphql`
       }
     }
 
-    markdownRemark(id: { eq: $id }) {
+    markdownRemark(
+      id: { eq: $id },
+      fields: {
+        sourceInstanceName: {eq: "policy" }
+      }
+    ) {
       html
       frontmatter {
-        date(formatString: "dddd D MMMM YYYY")
         title
+        version(formatString: "DD/MM/YYYY")
       }
       parent {
         ... on File {

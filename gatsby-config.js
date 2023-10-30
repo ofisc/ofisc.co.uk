@@ -26,6 +26,20 @@ module.exports = {
         path: `${__dirname}/src/schedule`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `policy`,
+        path: `${__dirname}/src/policy`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `club`,
+        path: `${__dirname}/src/club`,
+      },
+    },
     `gatsby-transformer-remark`,
     'gatsby-plugin-react-helmet',
     {

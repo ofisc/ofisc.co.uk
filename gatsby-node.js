@@ -31,12 +31,22 @@ exports.onCreateWebpackConfig = ({
 }
 
 exports.onCreateNode = async ({node, getNode, reporter, cache, loadNodeContent, actions, createNodeId }) => {
-  const { createNode } = actions;
+  const { createNode, createNodeField } = actions;
   const { name, sourceInstanceName, absolutePath, internal, extension } = node;
   const { contentDigest, type } = internal;
 
   if ('Directory' === type) {
     return;
+  }
+
+  if (node.internal.type === 'MarkdownRemark') {
+
+    const parent = getNode(node.parent)
+    createNodeField({
+      name: 'sourceInstanceName',
+      node,
+      value: parent.sourceInstanceName
+    })
   }
 
   if ('calendar' === sourceInstanceName) {

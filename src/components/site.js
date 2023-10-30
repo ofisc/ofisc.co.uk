@@ -8,10 +8,6 @@ export const site = [
     link: '/schedule'
   },
   {
-    name: 'Contact',
-    link: '/contact'
-  },
-  {
     name: 'Membership',
     link: '/membership'
   },

@@ -1,7 +1,7 @@
-—
-date: “2023-12-01”
-title: “OFISC Photography and Video Policy”
-—
+---
+title: "OFISC Photography and Video Policy"
+version: "2023-10-29"
+---
 
 ## Draft Status
  
@@ -12,9 +12,10 @@ Certain uses of photographs and videos are necessary for the ordinary running of
 As part of OFISC’s activities, we may take photographs and record videos of club members. We will obtain written consent from parents/carers for photographs and videos to be taken of their child for the purposes of communication, administration and safeguarding, and for promotional materials. Parents/carers who accept a place at the club for their child will be required to indicate whether they agree to OFISC using photographs and videos as set out in this policy. However, parents/carers should be aware that certain uses (i.e. for administrative purposes) may be necessary or unavoidable.
  
 Uses may include:
-• Club administrative resources
-• Club promotional materials such as magazines, brochures, newsletters etc.
-• Online on the OFISC website or social media pages
+
+* Club administrative resources
+* Club promotional materials such as magazines, brochures, newsletters etc.
+* Online on the OFISC website or social media pages
  
 When using photographs and videos in promotional materials or online, they will not be accompanied with any personal information about the child except for their first name, so that they cannot be identified. 
  
