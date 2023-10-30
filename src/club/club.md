@@ -40,13 +40,14 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 ## Serving Committee
 
 
-| Role                  | Name              |
-| :-                    | :-                |
-| Treasurer             | Clare Bingham     |
-| Secretary             | Currently vacant  |
-| Safeguarding Officer  | Claire Beveridge  | 
-| Competition Secretary | Theresa Harper    |
-| Chair                 | Ben Hood          |  
+| Role                      | Name              |
+| :-                        | :-                |
+| Treasurer                 | Clare Bingham     |
+| Secretary                 | Currently vacant  |
+| Safeguarding Officer      | Claire Beveridge  |
+| Coaches' Representative   | Alicia De Lange   | 
+| Competition Secretary     | Theresa Harper    |
+| Chair                     | Ben Hood          |  
 
 <!-- Links -->
 
