@@ -11,6 +11,7 @@ const mandate = 'https://pay.gocardless.com/AL0005G1D8K022';
 const gocardless = 'https://gocardless.com/';
 const dd_guarantee = 'https://gocardless.com/guides/posts/dd-guarantee-in-plain-english/';
 const membership_form = 'https://airtable.com/appds0YxM7WfBSSJK/shrlsGFlsrbcEaXRG';
+const unaccompanied_form = 'https://airtable.com/appds0YxM7WfBSSJK/shrVomFAMpRE2MrfY';
 
 const forms = [
   {name: 'Parent Consent Form', link: '/registration/OFISC Parent Consent Form.pdf'},
@@ -93,6 +94,18 @@ const Membership = () =>
       <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href={mandate}>Setup Direct Debit</a>
     </p>
 
+    <h3>Unaccompanied Consent</h3>
+
+    <p>
+      If your child is under the age of 10 years old a responsible adult will need to be inside the building for the entire session.
+      At the end of the sessions a Figure Club member will ensure all children are returned to their parent before releasing them from the rink.
+      If your child is able to leave the rink without supervision, please complete the Parent Consent Form to enable this to happen.
+    </p>
+
+    <p>
+      <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href={unaccompanied_form}>Provide Unaccompanied Consent</a>
+    </p>
+
     <h3>Own Skates</h3>
 
     <p>In contrast to Skate School, skaters are expected to use their own skates at Figure Club.</p>
@@ -104,12 +117,6 @@ const Membership = () =>
       Please send an email specifying the desired size (the jackets use an age-based sizing scheme).
       You should also state which name you prefer to have on the front of the jacket.
     </p>
-
-    <h3>Parental Consent</h3>
-
-    <p>If your child is under the age of 10 years old a responsible adult will need to be inside the building for the entire session, at the end of the sessions a Figure Club member will ensure all children are returned to their parent before releasing them from the rink, if your child is able to leave the rink without supervision, please complete the Parent Consent Form to enable this to happen.</p>
-
-    <Download name='Parent Consent Form' link='/registration/OFISC Parent Consent Form.pdf'/>
 
     <h3>Notice Period</h3>
 
