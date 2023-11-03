@@ -10,11 +10,10 @@ const email = 'club@ofisc.co.uk';
 const mandate = 'https://pay.gocardless.com/AL0005G1D8K022';
 const gocardless = 'https://gocardless.com/';
 const dd_guarantee = 'https://gocardless.com/guides/posts/dd-guarantee-in-plain-english/';
+const membership_form = 'https://airtable.com/appds0YxM7WfBSSJK/shrlsGFlsrbcEaXRG';
 
 const forms = [
-  {name: 'Membership Form', link: '/registration/OFISC Membership Form.pdf'},
   {name: 'Parent Consent Form', link: '/registration/OFISC Parent Consent Form.pdf'},
-  {name: 'Photography Consent Form', link: '/registration/OFISC Photography Consent Form.pdf'},
 ];
 
 const Download = ({name, link}) =>
@@ -33,6 +32,16 @@ const Membership = () =>
     <h2>Joining The Club</h2>
     <p>
         All skaters are welcome to join once they have achieved their Skate UK bronze level.
+        To join the club, please complete the membership form.
+    </p>
+
+    <p>
+      <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href={membership_form}>Submit Membership Form</a>
+    </p>
+
+    <p>
+      Once you have completed the membership form, you are free to start a 3 week trial.
+      After the trial, if you want to become a full member, please register for a direct debit membership (details below).
     </p>
 
     <h3>Ice Time</h3>
@@ -96,28 +105,11 @@ const Membership = () =>
       You should also state which name you prefer to have on the front of the jacket.
     </p>
 
-    <h3>Membership Form</h3>
-
-    <p>If you would like to join the club, please complete the membership form.</p>
-
-    <Download name='Membership Form' link='/registration/OFISC Membership Form.pdf'/>
-
-    <p>All forms are to be mailed to {email}</p>
-
     <h3>Parental Consent</h3>
 
     <p>If your child is under the age of 10 years old a responsible adult will need to be inside the building for the entire session, at the end of the sessions a Figure Club member will ensure all children are returned to their parent before releasing them from the rink, if your child is able to leave the rink without supervision, please complete the Parent Consent Form to enable this to happen.</p>
 
     <Download name='Parent Consent Form' link='/registration/OFISC Parent Consent Form.pdf'/>
-
-    <h3>Photography Consent</h3>
-
-    <p>
-      In accordance with our NISA Safeguarding Policy, we will not permit photographs, video or other images of young people to be taken without the consent of the parents/carers and the child.
-      If you are happy for the club to take photographs purely for club purposes, please complete the following consent form.
-    </p>
-
-    <Download name='Photography Consent Form' link='/registration/OFISC Photography Consent Form.pdf'/>
 
     <h3>Notice Period</h3>
 
