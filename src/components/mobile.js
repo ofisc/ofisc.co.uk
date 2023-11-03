@@ -11,8 +11,7 @@ import "primeicons/primeicons.css";
 import '../css/prime-override.css';
 
 import Logo from '../pages/svg/ofisc_logo_v2.svg';
-import { vertical } from './site';
-//import { FaBeer } from "@react-icons/all-files/fa/FaBeer";
+import { site } from './site';
 
 const MobileMenu = props => {
 
@@ -41,7 +40,7 @@ const MobileMenu = props => {
         onHide={() => setVisible(false)}>
         <div className="near-white">
             {
-              vertical.map(({name, link}) =>
+              site.map(({name, link}) =>
                 <div key={name} className="pv2">
                   <Link className="link near-white dib grow hover-mid-gray" to={link}>
                     <div className="f4 ttu">{name}</div>

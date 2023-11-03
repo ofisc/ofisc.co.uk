@@ -3,7 +3,6 @@ date: "2024-01-01"
 title: "About Figure Club"
 ---
 
-
 ## Ice Time
 
 Club ice is most Fridays from 5:30 - 6:30 pm at the Oxford Ice Rink.
@@ -29,7 +28,7 @@ Use of photos of skaters for administration and self-promotion purposes is gover
 
 ### Code Of Conduct
 
-* Skaters are expected to conform to the [code of conduct][].
+* Skaters are expected to conform to the [code of conduct][]
 * Parents and carers are expected to adhere to the [parent's code of conduct][]
 * The club has an [anti-bullying policy][anti-bullying] in place
 
@@ -54,9 +53,8 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 [bis safeguarding policy]:  /policy/BIS-Safeguarding-Policy.pdf
 [club safeguarding info]: /policy/OFISC-Safeguarding-Information-for-Members.pdf
 
-[code of conduct]: /policy/OFISC-Code-Of-Conduct.pdf
-[parent's code of conduct]: /policy/OFISC-Parents-code-of-conduct.pdf
-[anti-bullying]: /policy/OFISC-Anti-Bullying-Policy.pdf
-
 [photography]: /policy/photography
 [constitution]: /policy/constitution/
+[code of conduct]: /policy/code-of-conduct
+[parent's code of conduct]: /policy/parents-code-of-conduct
+[anti-bullying]: /policy/anti-bullying

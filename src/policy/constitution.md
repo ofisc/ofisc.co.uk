@@ -3,7 +3,6 @@ title: "Oxford Ice Figure Skating Club (OFISC) Constitution"
 version: "2015-12-01"
 ---
 
-
 1. Adoption of the Constitution
 
     1.1 The Club and its property will be administered and managed in accordance with the provisions in of this constitution.

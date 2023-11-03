@@ -1,9 +1,9 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import { Layout } from '../../components/layout';
-import { Social } from '../../components/social';
-import { scheduleUrl } from '../../components/share';
+import { Layout } from '../components/layout';
+import { Social } from '../components/social';
+import { scheduleUrl } from '../components/share';
 
 const Template = ({data}) => {
 
