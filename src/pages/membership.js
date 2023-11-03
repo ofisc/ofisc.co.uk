@@ -4,28 +4,12 @@ import { Link } from 'gatsby';
 
 import { Layout } from '../components/layout';
 
-import { FaRegFilePdf } from "@react-icons/all-files/fa/FaRegFilePdf";
-
 const email = 'club@ofisc.co.uk';
 const mandate = 'https://pay.gocardless.com/AL0005G1D8K022';
 const gocardless = 'https://gocardless.com/';
 const dd_guarantee = 'https://gocardless.com/guides/posts/dd-guarantee-in-plain-english/';
 const membership_form = 'https://airtable.com/appds0YxM7WfBSSJK/shrlsGFlsrbcEaXRG';
 const unaccompanied_form = 'https://airtable.com/appds0YxM7WfBSSJK/shrVomFAMpRE2MrfY';
-
-const forms = [
-  {name: 'Parent Consent Form', link: '/registration/OFISC Parent Consent Form.pdf'},
-];
-
-const Download = ({name, link}) =>
-  <div className="pb4">
-    <a className="link near-black dib grow hover-mid-gray" href={link} target="_blank" rel="noreferrer">
-      <div className="pl2 flex items-center">
-        <FaRegFilePdf size="1.5em" />
-        <div className="pl2">{name}</div>
-      </div>
-    </a>
-  </div>
 
 const Membership = () =>
   <Layout pageTitle='Membership'>

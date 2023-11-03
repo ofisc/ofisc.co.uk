@@ -1,9 +1,7 @@
 ---
 title: "OFISC Photography and Video Policy"
-version: "2023-10-29"
+version: "2023-11-04"
 ---
-
-## Draft Status
  
 This policy is intended to provide information to club members and their parents/carers about how photographs and videos are recorded, stored and used by OFISC.
  
