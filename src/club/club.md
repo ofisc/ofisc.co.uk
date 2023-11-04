@@ -31,6 +31,7 @@ Use of photos of skaters for administration and self-promotion purposes is gover
 * Skaters are expected to conform to the [code of conduct][]
 * Parents and carers are expected to adhere to the [parent's code of conduct][]
 * The club has an [anti-bullying policy][anti-bullying] in place
+* Until age 11, skaters must not be left [unaccompanied during club sessions][unaccompanied-skaters]. At age 11, parents must provide consent before skaters can be left unaccompanied. 
 
 ## Constitution
 
@@ -58,3 +59,4 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 [code of conduct]: /policy/code-of-conduct
 [parent's code of conduct]: /policy/parents-code-of-conduct
 [anti-bullying]: /policy/anti-bullying
+[unaccompanied-skaters]: /policy/unaccompanied-skaters
