@@ -1,6 +1,6 @@
 ---
-date: "2024-01-01"
 title: "About Figure Club"
+date: "2023-11-03"
 ---
 
 ## Ice Time

@@ -40,7 +40,12 @@ module.exports = {
         path: `${__dirname}/src/club`,
       },
     },
-    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-heading-slug`],
+      },
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-plugin-react-svg',
