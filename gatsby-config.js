@@ -43,7 +43,20 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-heading-slug`],
+        plugins: [
+          {
+            resolve: `gatsby-remark-table-of-contents`,
+            options: {
+              exclude: "Table of Contents",
+              tight: false,
+              ordered: true,
+              fromHeading: 1,
+              toHeading: 6,
+              className: "table-of-contents"
+            },
+          },
+          `gatsby-remark-autolink-headers`
+        ],
       },
     },
     'gatsby-plugin-react-helmet',

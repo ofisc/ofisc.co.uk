@@ -3,6 +3,10 @@ title: "Membership"
 date: "2023-11-03"
 ---
 
+```toc
+# This code block gets replaced with the TOC
+```
+
 ## Joining The Club
 
 All skaters are welcome to join once they have achieved their Skate UK bronze level. To start a trial, please complete the membership form.

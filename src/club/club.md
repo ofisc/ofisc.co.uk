@@ -3,6 +3,10 @@ title: "About Figure Club"
 date: "2023-11-03"
 ---
 
+```toc
+# This code block gets replaced with the TOC
+```
+
 ## Ice Time
 
 Club ice is most Fridays from 5:30 - 6:30 pm at the Oxford Ice Rink.
