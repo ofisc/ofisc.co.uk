@@ -23,21 +23,21 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `schedule`,
-        path: `${__dirname}/src/schedule`,
+        path: `${__dirname}/content/schedule`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `policy`,
-        path: `${__dirname}/src/policy`,
+        path: `${__dirname}/content/policy`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `club`,
-        path: `${__dirname}/src/club`,
+        path: `${__dirname}/content/club`,
       },
     },
     {
