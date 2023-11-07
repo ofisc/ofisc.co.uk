@@ -8,10 +8,6 @@ export const site = [
     link: '/schedule'
   },
   {
-    name: 'Contact',
-    link: '/contact'
-  },
-  {
     name: 'Membership',
     link: '/membership'
   },
@@ -19,15 +15,4 @@ export const site = [
     name: 'About',
     link: '/club'
   }
-];
-
-export const safeguarding =
-  {
-    name: 'Safeguarding',
-    link: '/safeguarding'
-  };
-
-export const vertical = [
-  safeguarding,
-  ...site
 ];

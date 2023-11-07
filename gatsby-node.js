@@ -31,12 +31,22 @@ exports.onCreateWebpackConfig = ({
 }
 
 exports.onCreateNode = async ({node, getNode, reporter, cache, loadNodeContent, actions, createNodeId }) => {
-  const { createNode } = actions;
+  const { createNode, createNodeField } = actions;
   const { name, sourceInstanceName, absolutePath, internal, extension } = node;
   const { contentDigest, type } = internal;
 
   if ('Directory' === type) {
     return;
+  }
+
+  if (node.internal.type === 'MarkdownRemark') {
+
+    const parent = getNode(node.parent)
+    createNodeField({
+      name: 'sourceInstanceName',
+      node,
+      value: parent.sourceInstanceName
+    })
   }
 
   if ('calendar' === sourceInstanceName) {
@@ -62,12 +72,75 @@ exports.onCreateNode = async ({node, getNode, reporter, cache, loadNodeContent, 
   }
 }
 
-// exports.createPages = ({ graphql, actions }) => {
-//   const { createPage } = actions
-//   return Promise.all([
-//     calendarEntry(graphql, createPage),
-//   ])
-// }
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions
+  return Promise.all([
+    schedule(graphql, createPage),
+    policy(graphql, createPage),
+  ])
+}
+
+const schedule = (graphql, createPage) => {
+  return new Promise((resolve, reject) => {
+    graphql(`
+      {
+        allMarkdownRemark(filter: {  fileAbsolutePath : { regex: "/(schedule)\\/.*\\\\.md$/" }}) {
+          edges {
+            node {
+              id
+              fileAbsolutePath
+            }
+          }
+        }
+      }
+    `
+    ).then(result => {
+      result.data.allMarkdownRemark.edges.map(({ node }) => {
+        const absPath = node.fileAbsolutePath;
+        createPage({
+          path: 'schedule/' + path.basename(absPath, path.extname(absPath)),
+          component: path.resolve(`./src/templates/schedule.js`),
+          context: {
+            id: node.id,
+            fileAbsolutePath: node.fileAbsolutePath,
+          }
+        })
+      });
+      resolve()
+    })
+  });
+}
+
+const policy = (graphql, createPage) => {
+  return new Promise((resolve, reject) => {
+    graphql(`
+      {
+        allMarkdownRemark(filter: {  fileAbsolutePath : { regex: "/(policy)\\/.*\\\\.md$/" }}) {
+          edges {
+            node {
+              id
+              fileAbsolutePath
+            }
+          }
+        }
+      }
+    `
+    ).then(result => {
+      result.data.allMarkdownRemark.edges.map(({ node }) => {
+        const absPath = node.fileAbsolutePath;
+        createPage({
+          path: 'policy/' + path.basename(absPath, path.extname(absPath)),
+          component: path.resolve(`./src/templates/policy.js`),
+          context: {
+            id: node.id,
+            fileAbsolutePath: node.fileAbsolutePath,
+          }
+        })
+      });
+      resolve()
+    })
+  });
+}
 
 const calendarEntry = (graphql, createPage) => {
   return new Promise((resolve, reject) => {

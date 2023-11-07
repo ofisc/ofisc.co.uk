@@ -65,14 +65,18 @@ export const pageQuery = graphql`
     }
     upcoming: allMarkdownRemark(
         sort: { order: ASC, fields: [frontmatter___date] },
-        filter: {frontmatter: {date: {gte: $publicationDate}}}
+        filter: {frontmatter: {date: {gte: $publicationDate}}, 
+                 fields: { sourceInstanceName: {eq: "schedule" }}
+                }
     ) {
       ...ScheduledEvent
     }
     ,
     past: allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] },
-        filter: {frontmatter: {date: {lt: $publicationDate}}}
+        filter: {frontmatter: {date: {lt: $publicationDate}},
+                 fields: { sourceInstanceName: {eq: "schedule" }}
+                }
     ) {
       ...ScheduledEvent
     }

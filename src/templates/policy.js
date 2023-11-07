@@ -1,14 +1,12 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
-import { Layout } from '../../components/layout';
-import { Social } from '../../components/social';
-import { scheduleUrl } from '../../components/share';
+import { Layout } from '../components/layout';
 
 const Template = ({data}) => {
 
   const { 
-    markdownRemark: { frontmatter: { title, date, announcement }, html, parent: { name: path } },
+    markdownRemark: { frontmatter: { title, version }, html, parent: { name: path } },
     site: { siteMetadata: { siteUrl } }
   } = data;
 
@@ -16,11 +14,7 @@ const Template = ({data}) => {
     <Layout pageTitle={title}>
       <div className="">
         <h1>{title}</h1>
-        <div className="f3 fw6">{date}</div>
-
-        <div className="pt4 pb4">
-          <Social shareUrl={scheduleUrl(siteUrl, path)} announcement={announcement}/>
-        </div>
+        <div className="f5 pb3">Version {version}</div>
 
         <div className=""
           dangerouslySetInnerHTML={{ __html: html }}
@@ -41,12 +35,16 @@ export const pageQuery = graphql`
       }
     }
 
-    markdownRemark(id: { eq: $id }) {
+    markdownRemark(
+      id: { eq: $id },
+      fields: {
+        sourceInstanceName: {eq: "policy" }
+      }
+    ) {
       html
       frontmatter {
-        date(formatString: "dddd D MMMM YYYY")
         title
-        announcement
+        version(formatString: "DD/MM/YYYY")
       }
       parent {
         ... on File {
