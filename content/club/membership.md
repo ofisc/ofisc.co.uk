@@ -13,7 +13,11 @@ All skaters under the age of 18 are welcome to join once they have achieved thei
 
 <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://airtable.com/appds0YxM7WfBSSJK/shrlsGFlsrbcEaXRG">Submit Membership Form</a>
 
-Once you have completed the membership form, you are free to start a 3 week trial. After the trial, if you want to become a full member, please refer to the guidance for [setting up payments](#payment).
+Once you have completed the membership form, you are free to start a 3 week trial. 
+
+If a skater is to be left unaccompanied at the rink, they must be 11 or over and the parent or guardian must provide [consent](#unaccompanied -consent).
+
+After the trial, if you want to become a full member, please refer to the guidance for [setting up payments](#payment).
 
 ## Ice Time
 
