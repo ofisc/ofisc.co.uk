@@ -68,4 +68,4 @@ This pro rata monthly fee will be collected via direct debit as the final amount
 
 [gocardless]: https://gocardless.com
 [dd_guarantee]: https://gocardless.com/guides/posts/dd-guarantee-in-plain-english/
-[unaccompanied]: /policy/unaccompanied-consent
+[unaccompanied]: /policy/unaccompanied-skaters
