@@ -30,7 +30,7 @@ If you have any queries relating to safeguarding, please contact the OFISC Safeg
 Use of photos of skaters for administration and self-promotion purposes is governed by the club [photography policy][photography]
 
 
-### Code Of Conduct
+### Club Conduct
 
 * Skaters are expected to conform to the [code of conduct][]
 * Parents and carers are expected to adhere to the [parent's code of conduct][]

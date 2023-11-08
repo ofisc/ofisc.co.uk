@@ -22,3 +22,5 @@ As you are aware, ice rinks can be dangerous places. In order for the Club sessi
 * Wear appropriate training clothes when on the ice, such as tracksuit bottoms/leggings, skating tights and skating dresses
 
 * Ensure long hair is tied back
+
+* Skaters are expected to use their own skates - the club does not provide any skates
