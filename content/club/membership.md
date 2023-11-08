@@ -9,7 +9,7 @@ date: "2023-11-03"
 
 ## Joining The Club
 
-All skaters are welcome to join once they have achieved their Skate UK bronze level. To start a trial, please complete the membership form.
+All skaters under the age of 18 are welcome to join once they have achieved their Skate UK bronze level. To start a trial, please complete the membership form.
 
 <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://airtable.com/appds0YxM7WfBSSJK/shrlsGFlsrbcEaXRG">Submit Membership Form</a>
 
@@ -41,9 +41,11 @@ Once you have setup up the direct debit mandate, the club will contact you to ar
 
 ## Unaccompanied Consent
 
-If your child is under the age of 10 years old a responsible adult will need to be inside the building for the entire session. At the end of the sessions a Figure Club member will ensure all children are returned to their parent before releasing them from the rink. If your child is able to leave the rink without supervision, please complete the Parent Consent Form to enable this to happen.
+Skaters under the age of 11 must be unaccompanied by responsible adult inside the rink for the entire session. From age 11 skaters can leave the rink without supervision, if their parent or guardian completes the unaccompanied consent form.
 
-<a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://airtable.com/appds0YxM7WfBSSJK/shrVomFAMpRE2MrfY">Unaccompanied Consent</a>
+<a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://airtable.com/appds0YxM7WfBSSJK/shrVomFAMpRE2MrfY">Unaccompanied Consent Form</a>
+
+Please refer to the [Unaccompanied Consent policy][unaccompanied] for further details.
 
 ## Own Skates
 
@@ -66,3 +68,4 @@ This pro rata monthly fee will be collected via direct debit as the final amount
 
 [gocardless]: https://gocardless.com
 [dd_guarantee]: https://gocardless.com/guides/posts/dd-guarantee-in-plain-english/
+[unaccompanied]: /policy/unaccompanied-consent
