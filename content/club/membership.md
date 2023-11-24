@@ -57,9 +57,11 @@ In contrast to Skate School, skaters are expected to use their own skates at Fig
 
 ## Club Jackets
 
-All members are encouraged to wear a personalized club jackets, which are available to purchase for £35.
-Please send an email specifying the desired size (the jackets use an age-based sizing scheme).
-You should also state which name you prefer to have on the front of the jacket.
+All members are encouraged to wear a personalized club jackets, which are available to purchase for £35. Payment for the jacket will be collected as a one-time direct debit after you have received the jacket.
+
+Please complete the jacket order form to tell us which size you need the name you prefer to have on the front of the jacket.
+
+<a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://airtable.com/appds0YxM7WfBSSJK/shrJVD4gnVKaJdO1H">Order Jacket</a>
 
 ## Notice Period
 
