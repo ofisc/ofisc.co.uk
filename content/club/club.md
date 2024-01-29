@@ -49,7 +49,7 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 | Treasurer                 | Clare Bingham     |
 | Secretary                 | Currently vacant  |
 | Safeguarding Officer      | Claire Beveridge  |
-| Coaches' Representative   | Alicia De Lange   | 
+| Coaches' Representative   | TBC               | 
 | Competition Secretary     | Theresa Harper    |
 | Chair                     | Currently vacant  |  
 
