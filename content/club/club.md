@@ -51,7 +51,7 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 | Safeguarding Officer      | Claire Beveridge  |
 | Coaches' Representative   | Alicia De Lange   | 
 | Competition Secretary     | Theresa Harper    |
-| Chair                     | Ben Hood          |  
+| Chair                     | Currently vacant  |  
 
 <!-- Links -->
 
