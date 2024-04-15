@@ -4,7 +4,7 @@ title: "Skate And Clothing Sale"
 announcement: "OFISC will run a skate and clothing sale on Friday 19 and Saturday 20 April at Oxford Ice Rink"
 ---
 
-OFISC is.00 holding a skate and clothing sale at Oxford Ice Rink on:
+OFISC is holding a skate and clothing sale at Oxford Ice Rink on:
 + Friday 19 April 5.30-7.00pm
 + Saturday 20 April 8.30-10.30am
 
