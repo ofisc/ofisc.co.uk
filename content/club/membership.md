@@ -9,15 +9,9 @@ date: "2023-11-03"
 
 ## Joining The Club
 
-All skaters under the age of 18 are welcome to join once they have achieved their Skate UK bronze level. To start a trial, please complete the membership form.
+All skaters under the age of 18 are welcome to join once they have achieved their Skate UK bronze level. Club membership is currently full and we have opened a waiting list for people wanting to join. 
 
-<a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://airtable.com/appds0YxM7WfBSSJK/shrlsGFlsrbcEaXRG">Submit Membership Form</a>
-
-Once you have completed the membership form, you are free to start a 3 week trial. 
-
-If a skater is to be left unaccompanied at the rink, they must be 11 or over and the parent or guardian must provide [consent](#unaccompanied-consent).
-
-After the trial, if you want to become a full member, please refer to the guidance for [setting up payments](#payment).
+To join the waiting list, please send an email to club@ofisc.co.uk. Once a place becomes available you will be offered a 3-week trial. If you wish to join OFISC at the end of the trial you will then be sent joining instructions. 
 
 ## Ice Time
 
