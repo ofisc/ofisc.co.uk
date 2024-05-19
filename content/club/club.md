@@ -41,17 +41,18 @@ Use of photos of skaters for administration and self-promotion purposes is gover
 
 Operations of the club are regulated in accordance with the [OFISC club constitution][constitution]
 
-## Serving Committee
+## Serving Committee Officers
 
 
 | Role                      | Name              |
 | :-                        | :-                |
 | Treasurer                 | Clare Bingham     |
-| Secretary                 | Currently vacant  |
+| Vice Secretary            | Jude Raikes       |
+| Secretary                 | Kerrie Blaker     |
 | Safeguarding Officer      | Claire Beveridge  |
-| Coaches' Representative   | TBC               | 
-| Competition Secretary     | Theresa Harper    |
-| Chair                     | Currently vacant  |  
+| Coaches' Representative   | Nikitia Aston     | 
+| Vice Chair                | Theresa Harper    |
+| Chair                     | Michelle Lidbury  |  
 
 <!-- Links -->
 
