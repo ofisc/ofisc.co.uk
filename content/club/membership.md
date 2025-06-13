@@ -64,6 +64,8 @@ Based on when you give notice, the club will advise you of your effetive members
 Depending on the effective end membership end date, the club will pro-rate any membership fees that become due.
 This pro rata monthly fee will be collected via direct debit as the final amount to be paid to the club.
 
+No one ever want to leave anyway!
+
 <!-- Links -->
 
 [gocardless]: https://gocardless.com
