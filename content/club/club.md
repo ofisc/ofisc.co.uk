@@ -13,7 +13,7 @@ Club ice is most Fridays from 5:30 - 6:30 pm at the Oxford Ice Rink.
 
 ## Contact
 
-For all inquiries please send an email to club@ofisc.co.uk
+For all inquiries please send an email to: club@ofisc.co.uk
 
 ## Club Policies
 
@@ -23,22 +23,22 @@ Figure Club is committed to providing a safe and enjoyable environment for child
 
 [Club Safeguarding information][club safeguarding info] suitable for children and young people is also available.
 
-If you have any queries relating to safeguarding, please contact the OFISC Safeguarding Officer by sending an email to club@ofisc.co.uk
+If you have any queries relating to safeguarding, please contact the OFISC Safeguarding Officer by sending an email to: club@ofisc.co.uk
 
 ### Photography
 
-Use of photos of skaters for administration and self-promotion purposes is governed by the club [photography policy][photography]
+Use of photos of skaters for administration and self-promotion purposes is governed by the club [photography policy][photography].
 
 
 ### Club Conduct
 
 * Skaters, parents/carers, coaches and club officials are expected to conform to the [codes of conduct][] at all times.
-* The club has an [anti-bullying policy][anti-bullying] and an equity statement in place
+* The club has an [anti-bullying policy][anti-bullying] and an [equity statement][] in place.
 * Until age 11, skaters must not be left [unaccompanied during club sessions][unaccompanied-skaters]. At age 11, parents must provide consent before skaters can be left unaccompanied. 
 
 ## Constitution
 
-Operations of the club are regulated in accordance with the [OFISC club constitution][club constitution]
+Operations of the club are regulated in accordance with the [OFISC club constitution][club constitution].
 
 ## Serving Committee Officers
 
