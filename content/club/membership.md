@@ -55,7 +55,7 @@ All members are encouraged to wear a personalized club jackets, which are availa
 
 Please complete the jacket order form to tell us which size you need the name you prefer to have on the front of the jacket.
 
-<a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://airtable.com/appds0YxM7WfBSSJK/shrJVD4gnVKaJdO1H">Order Jacket</a>
+<a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://www.rio-group.co.uk/sports-clubs/oxford-school-of-skating.html">Order Jacket</a>
 
 ## Notice Period
 
