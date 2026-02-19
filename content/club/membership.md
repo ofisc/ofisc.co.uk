@@ -19,9 +19,9 @@ Figure club runs every Friday from 5.30pm to 6.30pm. There will be a 15 minute w
 
 ## Trial Period
 
-You can start a trial for Figure Club on any Friday that is convenient for you. The trial is not a test, it is just a way to make sure they enjoy the club before committing. The 3 week trial is free, but we do require you fill out the membership form so that we have your details on file prior to getting on the ice.
+Skaters can start a trial for Figure Club on any Friday that is convenient, once they have been notified that a place has become available. The trial is not a test, it is just a way to make sure they enjoy the club before committing. The trial is free, but the skater's parent/guardian **must** fill out and give a member of the Club team the completed membership form so that we have the skater's details on file **prior** to them getting on the ice.
 
-Once a skater has completed their 3 week trial, should they enjoy the club, we would ask them to become a permanent member. Should you decide to join, we request you set up the direct debit to cover membership fees.
+Once a skater has completed their trial session, should they enjoy the club and want to keep attending, we ask them to become a member. The parent/guardian will be asked to set up a direct debit for monthly membership fee payments.
 
 ## Cost
 
