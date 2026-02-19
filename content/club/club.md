@@ -43,15 +43,15 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 ## Serving Committee Officers
 
 
-| Role                      | Name              |
-| :-                        | :-                |
-| Treasurer                 | Clare Bingham     |
-| Vice Secretary            | Jude Raikes       |
-| Secretary                 | Kerrie Blaker     |
-| Safeguarding Officer      | Claire Beveridge  |
-| Coaches' Representative   | Nikitia Aston     | 
-| Vice Chair                | Theresa Harper    |
-| Chair                     | Michelle Lidbury  |  
+| Role                      | Name                      |
+| :-                        | :-                        |
+| Treasurer                 | Clare Bingham             |
+| Vice Secretary            | Jude Raikes               |
+| Secretary                 | Cristina del Cano Novales |
+| Safeguarding Officer      | Segen Michael             |
+| Coaches' Representative   | Nikitia Aston             | 
+| Chair                     | Theresa Harper            | 
+| Competition Secretary     | Wendy Cherry              |
 
 <!-- Links -->
 
