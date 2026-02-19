@@ -56,8 +56,8 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 <!-- Links -->
 
 [bis safeguarding policy]:  /policy/BIS-Safeguarding-Policy.pdf
-[club safeguarding info]: /policy/OFISC-Safeguarding-Information-for-Members.pdf
-[club safeguarding policy]: /policy/OFISC-Safeguarding-Policy-updated-2025.pdf
+[club safeguarding info]: /policy/Safeguarding-Information-For-OFISC-Members.pdf
+[club safeguarding policy]: /policy/OFISC-Safeguarding-Policy-updated-Feb-2026.pdf
 [codes of conduct]: /policy/OFISC-Codes-of-Conduct-2025.pdf
 [anti-bullying]: /policy/OFISC-AntiBullying-Policy-2025.pdf
 [equity statement]: /policy/OFISC-Equity-Statement-2025.pdf
