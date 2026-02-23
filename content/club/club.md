@@ -43,25 +43,24 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 ## Serving Committee Officers
 
 
-| Role                      | Name              |
-| :-                        | :-                |
-| Treasurer                 | Clare Bingham     |
-| Vice Secretary            | Jude Raikes       |
-| Secretary                 | Kerrie Blaker     |
-| Safeguarding Officer      | Claire Beveridge  |
-| Coaches' Representative   | Nikitia Aston     | 
-| Vice Chair                | Theresa Harper    |
-| Chair                     | Michelle Lidbury  |  
+| Role                      | Name                      |
+| :-                        | :-                        |
+| Treasurer                 | Clare Bingham             |
+| Secretary                 | Cristina del Cano Novales |
+| Safeguarding Officer      | Segen Michael             |
+| Coaches' Representative   | Nikitia Aston             | 
+| Chair                     | Theresa Harper            | 
+| Competition Secretary     | Wendy Cherry              |
 
 <!-- Links -->
 
 [bis safeguarding policy]:  /policy/BIS-Safeguarding-Policy.pdf
-[club safeguarding info]: /policy/OFISC-Safeguarding-Information-for-Members.pdf
-[club safeguarding policy]: /policy/OFISC-Safeguarding-Policy-updated-2025.pdf
+[club safeguarding info]: /policy/Safeguarding-Information-For-OFISC-Members.pdf
+[club safeguarding policy]: /policy/OFISC-Safeguarding-Policy-updated-Feb-2026.pdf
 [codes of conduct]: /policy/OFISC-Codes-of-Conduct-2025.pdf
 [anti-bullying]: /policy/OFISC-AntiBullying-Policy-2025.pdf
 [equity statement]: /policy/OFISC-Equity-Statement-2025.pdf
-[club constitution]: /policy/OFISC-Club-Constitution-260925.pdf
+[club constitution]: /policy/OFISC-Club-Constitution-120126.pdf
 
 [photography]: /policy/photography
 [unaccompanied-skaters]: /policy/unaccompanied-skaters
