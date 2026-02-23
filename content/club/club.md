@@ -46,7 +46,6 @@ Operations of the club are regulated in accordance with the [OFISC club constitu
 | Role                      | Name                      |
 | :-                        | :-                        |
 | Treasurer                 | Clare Bingham             |
-| Vice Secretary            | Jude Raikes               |
 | Secretary                 | Cristina del Cano Novales |
 | Safeguarding Officer      | Segen Michael             |
 | Coaches' Representative   | Nikitia Aston             | 
