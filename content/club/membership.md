@@ -39,7 +39,7 @@ Once you have setup up the direct debit mandate, the club will contact you to ar
 
 ## Unaccompanied Consent
 
-Skaters under the age of 11 must be unaccompanied by responsible adult inside the rink for the entire session. From age 11 skaters can leave the rink without supervision, if their parent or guardian completes the unaccompanied consent form.
+Skaters under the age of 11 must be accompanied by responsible adult inside the rink for the entire session. From age 11 skaters can leave the rink without supervision, if their parent or guardian completes the unaccompanied consent form.
 
 <a class="f6 link dim br-pill ph3 pv2 mb2 dib white bg-dark-blue" href="https://airtable.com/appds0YxM7WfBSSJK/shrVomFAMpRE2MrfY">Unaccompanied Consent Form</a>
 
